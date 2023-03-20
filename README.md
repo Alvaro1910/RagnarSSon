@@ -1,4 +1,3 @@
-# RagnarSSon
 # Faltan:
 # Multiplicidad
 # "Informacion negativa"
